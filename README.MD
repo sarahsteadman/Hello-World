@@ -4,18 +4,14 @@
  
  This program is designed to serve as a learning tool for arranging future github projects.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=J83EZoZGGLA)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used the tool of my brain and the very first day of computer class.
 
-{Describe the programming language that you used}
+The language used for this program is python. It is a very good language for beginners to use.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Learn Python Hello World Tutorial](https://www.learnpython.org/en/Hello,_World!)
